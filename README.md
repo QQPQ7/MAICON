@@ -79,3 +79,22 @@ ex) 1000.png
 
 --- 갱신 (Pixel Value 3): 양쪽 같은 위치에 건물이 있으면서 한쪽에 변화가 있는 경우
 
+![다운로드](https://user-images.githubusercontent.com/41661483/204326708-cef630bd-f919-4873-bdf7-84129c3cd567.png)
+
+
+- (왼쪽 before, 오른쪽 after)
+
+![다운로드 (1)](https://user-images.githubusercontent.com/41661483/204327439-a53def09-9d44-4abe-8788-36c42c1b7a80.png)
+
+
+![신축예시](https://user-images.githubusercontent.com/41661483/204328222-19f4dcc5-15bf-4443-b828-d63a12d088e2.png)
+
+<신축 예시 - 파란색>
+
+![소멸예시](https://user-images.githubusercontent.com/41661483/204328242-211d2eb1-cca2-444c-8731-a8d856c51a31.png)
+
+<소멸 예시 - 빨간색>
+
+![갱신예시](https://user-images.githubusercontent.com/41661483/204328250-6e974e00-4b76-4594-afb9-e00d7d745629.png)
+
+<갱신 예시 - 초록색>

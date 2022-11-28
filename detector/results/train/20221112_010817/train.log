@@ -1,0 +1,8 @@
+2022-11-12 01:08:17,416 | train | INFO | Load dataset, train: 9600, val: 2400
+2022-11-12 01:08:18,136 | train | INFO | Load model architecture: Unet
+2022-11-12 01:08:18,139 | train | INFO | Load optimizer:AdamW, scheduler: CosineAnnealingLR, loss: MeanCCELoss, metric: ['miou', 'iou1', 'iou2', 'iou3']
+2022-11-12 01:08:18,139 | train | INFO | Load trainer
+2022-11-12 01:08:18,139 | train | INFO | ES | Initiated, mode: max, best score: inf, patience: 5
+2022-11-12 01:08:18,153 | train | INFO | Load early stopper, recorder
+2022-11-12 01:08:18,155 | train | INFO | START TRAINING
+2022-11-12 01:08:18,155 | train | INFO | Epoch 0/100 Train..

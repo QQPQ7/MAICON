@@ -98,3 +98,18 @@ ex) 1000.png
 ![갱신예시](https://user-images.githubusercontent.com/41661483/204328250-6e974e00-4b76-4594-afb9-e00d7d745629.png)
 
 <갱신 예시 - 초록색>
+
+
+## 사용한 네트워크 모델
+
+ - unet
+
+![unet](https://user-images.githubusercontent.com/41661483/204336692-1698c040-8fe5-4e5e-b50f-f404d7843223.png)
+
+ - FPN (Feature Pyramid Networks)
+
+![FPN_2](https://user-images.githubusercontent.com/41661483/204337669-55323973-2165-457c-9521-fe12e614af0b.png)
+
+ 
+ 
+
